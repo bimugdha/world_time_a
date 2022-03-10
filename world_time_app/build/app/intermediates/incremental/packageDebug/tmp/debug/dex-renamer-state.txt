@@ -1,0 +1,4 @@
+#Sun Feb 20 20:28:54 NPT 2022
+base.0=D\:\\Flutter\\world_time_app\\world_time_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
